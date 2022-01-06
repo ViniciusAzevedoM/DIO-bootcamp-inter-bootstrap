@@ -1,0 +1,41 @@
+.navbar {
+    background: white;
+}
+
+.logoInter {
+    height: 40px;
+    margin-left: 10px;
+}
+
+.apresentacao {
+    background: #ff7a00;
+    color: white;
+}
+
+.quem-somos {
+    background: white;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background: white;
+}
+
+.servicos {
+    background: #ff7a00;
+    color: white;
+}
+
+.imgServicos {
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+.bg-footer {
+    background: white;
+    color: white;
+}
