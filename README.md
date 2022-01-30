@@ -1,4 +1,4 @@
-# Bootcamp Inter Frontend Developer
+# Bootcamp da Digital Innovation One em parceria com o Inter
 ## Aula de bootstrap
 
-Foi feita a construção de uma landing page simples, no meu caso resolvi fazer uma landing page do Inter.
+Neste repositório foi construído de uma landing page simples utilizando Bootstrap, como parte do desafio do bootcamp. No meu caso resolvi fazer uma landing page do Inter. 
